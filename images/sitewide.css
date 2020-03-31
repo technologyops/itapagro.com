@@ -1,0 +1,47 @@
+A:link {
+	COLOR: #009900; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #009900; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #ff3300; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.smalltextrev {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #cccccc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.smalltextrev A:link {
+	COLOR: #ccfcc9; TEXT-DECORATION: underline
+}
+.smalltextrev A:visited {
+	COLOR: #ccfcc9; TEXT-DECORATION: underline
+}
+.smalltextrev A:active {
+	COLOR: #ff3300; TEXT-DECORATION: underline
+}
+.smalltextrev A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+H3 {
+	FONT-SIZE: 16px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #d4d0c8; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #d4d0c8; SCROLLBAR-SHADOW-COLOR: #999999; COLOR: #333333; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #e3e3e3; FONT-FAMILY: Arial, Helvetica, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #666666
+}
+.headings {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #006600; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.smalltext {
+	FONT-SIZE: 9px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.products {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #006600; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style2 {
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+}
